@@ -36,9 +36,11 @@ Step 3: Make Files Public
 
 Click Edit and uncheck "Block all public access"
 
-Now make object ACLs enabled
-
 ![Screenshot 2025-02-11 222756](https://github.com/user-attachments/assets/4906ec81-53e8-4bfd-a7a9-7e97e9390980)
+
+Now make Object ACLs enabled
+
+![Screenshot 2025-02-11 222848](https://github.com/user-attachments/assets/d2f10418-5f94-4dc1-b20f-4e985fd01b50)
 
 Click Make public ACLs
 
